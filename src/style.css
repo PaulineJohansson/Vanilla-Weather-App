@@ -4,3 +4,8 @@ h1 {
 img {
   width: 40px;
 }
+.weather-app {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+}
